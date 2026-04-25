@@ -2,7 +2,7 @@
 
 I'm a beginner who codes for the love of it. No deadlines, no pressure — just me, my keyboard, and a lot of curiosity. 😄
 
-I'm into pretty much everything: web dev, app dev, data science, general programming — if it sounds interesting, I'll give it a shot. Currently getting my hands dirty with React and frontend frameworks, experimenting with Python, and dabbling in Java — a little bit of everything, honestly.
+I'm into pretty much everything: web dev, app dev, data science, general programming — if it sounds interesting, I'll give it a shot. Currently getting my hands dirty and experimenting with Python, and dabbling in Java — a little bit of everything, honestly.
 
 Early days, but having a blast. 🚀
 
@@ -19,8 +19,6 @@ Early days, but having a blast. 🚀
 ---
 
 ### 📈 GitHub Stats
-
-![MasterCodes24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterCodes24&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodes24&layout=compact&theme=tokyonight&hide_border=true)
 
