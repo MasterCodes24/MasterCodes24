@@ -18,10 +18,4 @@ Early days, but having a blast. 🚀
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodes24&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *Still learning. Still building. That's the point.* 😄
