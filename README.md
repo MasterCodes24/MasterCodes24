@@ -1,10 +1,15 @@
 # Hey, I'm MasterCodes24 👋
 
 🔭 I'm currently working on mastering Machine Learning and Data Science — diving deep into algorithms, model building, and real-world applications. A beginner who codes for the love of it, no deadlines, just pure curiosity.
+
 🤝 I'm looking to collaborate on AI/ML projects, web dev, app dev, and innovative side projects that solve real problems — if it sounds interesting, I'm in!
+
 🤝 I'm looking for help with navigating the ML/Data Science landscape — best practices, libraries (sklearn, TensorFlow, pandas), and career guidance as I explore this space.
+
 🌱 I'm currently learning Machine Learning fundamentals, Data Science, Python deep-dives, and a bit of Java — experimenting with everything and having a blast doing it. 🚀
+
 💬 Ask me about Python, Java, web development (HTML/CSS), databases, data structures, my journey into AI/ML, or pretty much anything tech — I love discussing ideas!
+
 ⚡ Fun fact I'm a BTech CSE student who went from building web pages to building ML models — still figuring out which one breaks less. But honestly? I'm having too much fun to care. 😄
 
 
