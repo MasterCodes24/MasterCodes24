@@ -1,4 +1,4 @@
-# Hey, I'm MasterCodes24 👋
+# Hey, I'm Muin 👋
 
 🔭 I'm currently working on mastering Machine Learning and Data Science — diving deep into algorithms, model building, and real-world applications. A beginner who codes for the love of it, no deadlines, just pure curiosity.
 
